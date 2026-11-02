@@ -1,0 +1,6 @@
+{
+  "Name": "UiPathAcademy_GenerateYearlyReport_Performer",
+  "ProjectType": "Process",
+  "Description": "UiPath Academy Generate Yearly Report projesine ait performer uygulaması. Kuyruktaki WIID numaralarına göre aylık raporları indirir ve yıllık rapor oluşturur. Oluşturduğu yıllık raporları ACME System 1 uygulamasına yükler.",
+  "MainFile": "Main.xaml"
+}
